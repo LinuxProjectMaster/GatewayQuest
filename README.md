@@ -1,7 +1,8 @@
 # GatewayQuest
 Submission for Stellar Gateway Quest Devpost Hackathon
 
-![download](https://github.com/user-attachments/assets/3eeaef99-1e75-44e6-825a-a906d20e3665)
+![download](https://github.com/user-attachments/assets/33587d28-724e-4187-ad7a-d773cc8911d1)
+
 
 
 ##### This project was inspired Torres et al., “A Machine Learning Approach to Predicting SEP Proton Intensity and Events Using Time Series of Relativistic Electron Measurements.”

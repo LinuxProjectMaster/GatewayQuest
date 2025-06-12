@@ -9,4 +9,7 @@ Submission for Stellar Gateway Quest Devpost Hackathon
 ##### Data was taken from https://zenodo.org/records/12832882 and https://services.swpc.noaa.gov/json/goes/
 ##### Features a darts N-BEATS (Neural Basis Expansion Analyis for Interpretable Time Series) model for prediction
 ###### *React-Bootstrap* frontend with Recharts.js
-###### *Flask Backend:* Darts, Numpy, Pandas
+###### *Flask Backend:* Darts, Numpy, Pandas <br> 
+<br>
+The code is contained in the Master branch of this repository
+
